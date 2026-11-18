@@ -1,0 +1,6 @@
+if SHIELD_MIG
+
+config ZMK_KEYBOARD_NAME
+    default "G80-3930"
+
+endif
